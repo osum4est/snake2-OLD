@@ -10,6 +10,7 @@ namespace Snake2
 {
     public class Adventure : DrawableGameComponent
     {
+	// EDIT FROM NOTEPAD++
         public RenderTarget2D rtMain;
         public RenderTarget2D rtLight;
 
