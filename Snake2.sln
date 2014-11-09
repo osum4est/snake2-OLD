@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Express 2010
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake2", "Snake2\Snake2\Snake2.csproj", "{BD20F8A4-BF0F-462F-A889-274CA8ACADAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake2Content", "Snake2\Snake2Content\Snake2Content.contentproj", "{9D7FB6E4-FBBA-42E9-A838-1D338B0E8FF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{054DF5B9-65B3-4344-944F-0C9490AE794F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipelineExtension", "PipelineExtension\PipelineExtension.csproj", "{F3953001-4005-4EEB-9D76-FFF88281AD72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD20F8A4-BF0F-462F-A889-274CA8ACADAA}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BD20F8A4-BF0F-462F-A889-274CA8ACADAA}.Debug|Any CPU.Build.0 = Debug|x86
+		{BD20F8A4-BF0F-462F-A889-274CA8ACADAA}.Debug|x86.ActiveCfg = Debug|x86
+		{BD20F8A4-BF0F-462F-A889-274CA8ACADAA}.Debug|x86.Build.0 = Debug|x86
+		{BD20F8A4-BF0F-462F-A889-274CA8ACADAA}.Release|Any CPU.ActiveCfg = Release|x86
+		{BD20F8A4-BF0F-462F-A889-274CA8ACADAA}.Release|x86.ActiveCfg = Release|x86
+		{BD20F8A4-BF0F-462F-A889-274CA8ACADAA}.Release|x86.Build.0 = Release|x86
+		{9D7FB6E4-FBBA-42E9-A838-1D338B0E8FF7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9D7FB6E4-FBBA-42E9-A838-1D338B0E8FF7}.Debug|x86.ActiveCfg = Debug|x86
+		{9D7FB6E4-FBBA-42E9-A838-1D338B0E8FF7}.Release|Any CPU.ActiveCfg = Release|x86
+		{9D7FB6E4-FBBA-42E9-A838-1D338B0E8FF7}.Release|x86.ActiveCfg = Release|x86
+		{054DF5B9-65B3-4344-944F-0C9490AE794F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{054DF5B9-65B3-4344-944F-0C9490AE794F}.Debug|Any CPU.Build.0 = Debug|x86
+		{054DF5B9-65B3-4344-944F-0C9490AE794F}.Debug|x86.ActiveCfg = Debug|x86
+		{054DF5B9-65B3-4344-944F-0C9490AE794F}.Debug|x86.Build.0 = Debug|x86
+		{054DF5B9-65B3-4344-944F-0C9490AE794F}.Release|Any CPU.ActiveCfg = Release|x86
+		{054DF5B9-65B3-4344-944F-0C9490AE794F}.Release|x86.ActiveCfg = Release|x86
+		{054DF5B9-65B3-4344-944F-0C9490AE794F}.Release|x86.Build.0 = Release|x86
+		{F3953001-4005-4EEB-9D76-FFF88281AD72}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F3953001-4005-4EEB-9D76-FFF88281AD72}.Debug|Any CPU.Build.0 = Debug|x86
+		{F3953001-4005-4EEB-9D76-FFF88281AD72}.Debug|x86.ActiveCfg = Debug|x86
+		{F3953001-4005-4EEB-9D76-FFF88281AD72}.Debug|x86.Build.0 = Debug|x86
+		{F3953001-4005-4EEB-9D76-FFF88281AD72}.Release|Any CPU.ActiveCfg = Release|x86
+		{F3953001-4005-4EEB-9D76-FFF88281AD72}.Release|Any CPU.Build.0 = Release|x86
+		{F3953001-4005-4EEB-9D76-FFF88281AD72}.Release|x86.ActiveCfg = Release|x86
+		{F3953001-4005-4EEB-9D76-FFF88281AD72}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
